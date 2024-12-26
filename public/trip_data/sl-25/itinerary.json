@@ -1,0 +1,262 @@
+{
+  "destination": "Sri Lanka",
+  "from": "2024-03-08",
+  "to": "2024-03-21",
+  "overview": "Sri Lanka is a tropical paradise known for its rich history, vibrant culture, stunning landscapes, and diverse wildlife. Over the course of two weeks, we'll experience the best of what this island nation has to offer.<br/><br/>From exploring ancient temples and indulging in flavorful local cuisine, to scuba diving in crystal-clear waters, hiking through lush jungles, and catching waves on some of the world’s top surfing spots, Sri Lanka provides the perfect balance of adventure, relaxation, and cultural immersion. Whether we're history buffs, nature lovers, or thrill-seekers, there's something for everyone in this beautiful country.",
+  "img": "https://static01.nyt.com/images/2019/02/03/travel/03frugal-srilanka01/merlin_148552275_74c0d250-949c-46e0-b8a1-e6d499e992cf-superJumbo.jpg?quality=75&auto=webp",
+  "gmaps_id": "1Zeu7kZof77BcQWTC-AkoWxIfD4_7unQ",
+  "flights": {
+    "Emre": {
+      "Inbound": {
+        "from": "London Heathrow (LHR)",
+        "to": "Colombo (CMB)",
+        "takeoff": "2024-03-07 20:55",
+        "land": "2024-03-08 07:45",
+        "flight_nums": [
+          "EY68",
+          "EY390"
+        ],
+        "pdf_url": "https://drive.google.com/file/d/1sINnvYR8885Fx_H471Tpp6rLt8fG-Jvt/view?usp=drive_link"
+      }
+    },
+    "Melanie": {
+      "Inbound": {
+        "from": "Seoul (ICN)",
+        "to": "Colombo (CMB)",
+        "takeoff": "2024-03-08 11:35",
+        "land": "2024-03-08 16:40",
+        "flight_nums": [
+          "UL471"
+        ],
+        "pdf_url": "https://drive.google.com/file/d/1-AFkClP9MEYiPkJDSc31H1utgfQCEFH9/view"
+      },
+      "Outbound": {
+        "from": "Colombo (CMB)",
+        "to": "London Heathrow (LHR)",
+        "takeoff": "2024-03-22 02:20",
+        "land": "2024-03-22 08:40",
+        "flight_nums": [
+          "UL505"
+        ],
+        "pdf_url": "https://drive.google.com/file/d/1-AFkClP9MEYiPkJDSc31H1utgfQCEFH9/view"
+      }
+    }
+  },
+  "document_url": "https://drive.google.com/drive/folders/17ZbXzsFwsbfEPSxxu4HbgBdfmQPC3kme?usp=drive_link",
+  "stops": {
+    "Colombo": {
+      "img": "https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "from": "2024-03-08",
+      "to": "2024-03-09",
+      "labels": [
+        "culture"
+      ],
+      "description": "Colombo is a bustling city that blends rich history with modern development, making it an exciting destination for our trip.<br/>We'll explore vibrant markets like Pettah, visit the serene Gangaramaya Temple, and take a tuk-tuk city tour to see local landmarks. We’ll also relax at Galle Face Green and immerse ourselves in the city’s culture.<br/>The Colombo National Museum offers a fascinating glimpse into Sri Lanka’s heritage, while the Colombo Harbour showcases the city’s economic significance.",
+      "history": "<h6>Ancient and Colonial History</h6><ul><li><strong>Ancient Era:</strong> Colombo has been a port city for over 2,000 years. The city's strategic location along the Indian Ocean made it a vital trading hub. It was mentioned in ancient texts such as the Mahavamsa, a historical chronicle of Sri Lanka.</li><li><strong>Portuguese Period (1505–1658):</strong> The Portuguese were the first European colonizers to arrive in Sri Lanka, establishing their presence in Colombo in 1505. They built fortifications, which later became part of the city’s defenses. The Portuguese controlled much of the coastal areas until they were ousted by the Dutch.</li><li><strong>Dutch Period (1658–1796):</strong> The Dutch East India Company took control of Colombo in 1658. They expanded the fortifications and introduced new infrastructure, like canals, and began managing trade. The Dutch influence is still seen in Colombo’s architecture and street names.</li><li><strong>British Period (1796–1948):</strong> The British took control of Colombo in 1796 and eventually established it as the capital of British Ceylon. During British rule, Colombo underwent significant urbanization, including the development of public buildings, roads, and railways. The city became a key center for the British Empire’s maritime trade.</li></ul><h6>Post-Independence and Modern Day</h6><ul><li><strong>Independence:</strong> Sri Lanka gained independence from Britain in 1948, and Colombo remained the capital of the newly independent nation. It was a focal point for political and economic changes.</li><li><strong>Civil War (1983–2009):</strong> The Sri Lankan Civil War between the government and the Tamil Tigers (LTTE) had a profound impact on Colombo. The city, while largely unaffected by the fighting, experienced bombings and attacks during the conflict. In 2009, the civil war officially ended, and Colombo began recovering and rebuilding.</li><li><strong>Modern Growth:</strong> Today, Colombo is a bustling metropolis with a mix of colonial and modern architecture.</li></ul>",
+      "accommodation": [
+        {
+          "name": "Lorem Ipsum",
+          "maps_url": "gmaps_url_to_accom",
+          "reservation_url": "reservation_url",
+          "check_in": "1970-01-01 15:00",
+          "check_out": "1970-01-01 12:00"
+        }
+      ],
+      "documents_url": "https://drive.google.com/drive/folders/12aiJO-ZanSL1hbnemCRUkEfHwcdQYSCq?usp=drive_link",
+      "activities": {
+        "Culture": {
+          "City Tour by Tuk Tuk": {
+            "img": "tuk-tuk.jpg",
+            "info_url": "https://www.viator.com/en-GB/tours/Colombo/Colombo-City-Tour-By-Tuk-Tuk/d4619-104893P11?m=64813&supag=&supca=20929556840&supsc=&supai=&supdv=c&supnt=x&suplp=9045881&supli=&supti=&tsem=true&supci=&supap1=&supap2=&gad_source=1&gclid=CjwKCAiAmfq6BhAsEiwAX1jsZ2ICPZmmTsWawdJ6Umq8az-x41zp6sMpQaOdE9-ET7mhK5y4c-vjjxoC8WUQAvD_BwE",
+            "booking_url": "booking_confirmation_url",
+            "description": "Ditch the crowded coach tours and travel like a local on this intimate, half-day sightseeing trip through Colombo in a traditional three-wheeler tuk tuk. Tick off the capital’s top attractions as you weave your way down winding streets, from bustling Hindu temples to Dutch-built landmarks. You’ll also enjoy a shopping stop in the market-filled district of Pettah. Pick up is from the hotel."
+
+          },
+          "Colombo National Museum": {
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/SL_Colombo_asv2020-01_img10_National_Museum.jpg/2880px-SL_Colombo_asv2020-01_img10_National_Museum.jpg",
+            "info_url": "https://www.museum.gov.lk/web/index.php?option=com_regionalm&task=regionalmuseum&id=6&lang=en",
+            "description": "The National Museum of Natural History is a museum that covers the natural heritage of Sri Lanka. The museum is located closer to the National Museum of Colombo. It was established on September 23, 1986 and became only one museum in Sri Lanka that represents natural history and natural heritage.",
+            "gmaps_url": "https://maps.app.goo.gl/d4HphJZbP9hZVJaj6"
+          },
+          "Galle Face Green Walk": {
+            "img": "https://lh3.googleusercontent.com/p/AF1QipNPXGeg40KPbHLzL6R-snHSz9cUCMe0QlRF7T2B=s1360-w1360-h1020",
+            "info_url": "https://visitcolombo.com/content/2-galle-face-green",
+            "description": "Galle Face Green (Galle Face Beach) is a half kilometer promenade in the heart of Colombo and was initially laid out in 1859 by Sir Henry Ward, Governor of British Ceylon. The stretch of land was used for horse racing and golf and was known as the Colpetty Race Course.<br/>Today, Galle Face Green is a favorite place for families, children, lovers and picnickers. While the hot sun makes carrying around an umbrella a must and the crows are a nuisance, it is still a beautiful place to relax, enjoy the beach and have meals. There is enough space to walk around, sit and even fly kites. During the kite season, the skies over Galle Face Green are hidden behind the colorful kites that bring joy to the young and old. Those who enjoy people watching will be able to do a lot of observing at Galle Face Green, as it attracts people of various cultures, ethnicities and ages.",
+            "gmaps_url": "https://maps.app.goo.gl/tSWB35JwanVz1DZp8"
+          },
+          "Pettah Market": {
+            "img": "https://tripjive.com/wp-content/uploads/2024/10/Pettah-Market-in-Colombo-shopping-district-1024x585.jpg",
+            "info_url": "https://migrationology.com/pettah-market-walk-through-colombos-most-hectic-shopping-district/",
+            "description": "Pettah Market is a bustling and vibrant commercial area in the heart of Colombo, Sri Lanka. Known for its chaotic and lively atmosphere, it’s a place where locals and tourists alike can experience the true energy of the city. The market is made up of narrow streets and alleys lined with colorful stalls selling a wide variety of goods, including fresh produce, spices, textiles, electronics, jewelry, and souvenirs.<br/><br/>It’s a great spot to immerse yourself in local life, sample street food, haggle for bargains, and explore the diverse range of products. The market's busy nature can be overwhelming, but it's a must-see for those looking to experience Colombo’s authentic street culture.",
+            "gmaps_url": "https://maps.app.goo.gl/pDigLMuDPCiLM4BQ6"
+          },
+          "The Gangaramaya Temple": {
+            "info_url": "https://gangaramaya.com/",
+            "description": "The Gangaramaya Temple is often considered one of the best and most important temples in Colombo. It’s a unique blend of modern architecture and traditional Sri Lankan Buddhist design, featuring a mix of cultural influences from Sri Lanka, Thailand, China, and Myanmar. The temple complex includes a main temple building, a museum, a library, and a meditation center.<br/><br/>Gangaramaya is not only a place of worship but also a cultural hub, showcasing religious artifacts, statues, and artworks. It’s also famous for its serene atmosphere and beautiful surroundings, with a peaceful pond and lush gardens. Visitors can explore the temple’s intricate architecture, attend religious ceremonies, or simply enjoy the tranquil environment. It’s a must-visit for anyone interested in Sri Lanka’s spiritual and cultural heritage.",
+            "gmaps_url": "https://maps.app.goo.gl/5yAC1fTtMKn6H2yi6"
+          }
+        }
+      },
+      "food_gmaps_url": "4TE1k8Fhj3sMn4Xs8"
+    },
+    "Hikkaduwa": {
+      "img": "https://www.eatsandretreats.com/travel/wp-content/uploads/2018/12/shutterstock_761975533-1.jpg",
+      "from": "2024-03-09",
+      "to": "2024-03-11",
+      "labels": [
+        "surfing",
+        "snorkeling",
+        "scuba",
+        "beach"
+      ],
+      "description": "For our stop in Hikkaduwa, we’ll be enjoying the perfect mix of adventure and relaxation. We’ll catch some great waves while surfing and explore the vibrant underwater world with a scuba diving trip. Between the surf sessions, we can unwind on the beautiful sandy beaches, snorkel and soak up the sun.",
+      "history": "Hikkaduwa has a rich history that dates back centuries. Once a small fishing village, it became more widely known in the 1960s when it started to attract travelers and surfers from around the world, drawn by its stunning beaches and great surf spots. Over time, it developed into a popular tourist destination, known not only for its vibrant coral reefs but also for its laid-back atmosphere and natural beauty.<br/>Historically, Hikkaduwa was part of the ancient kingdom of Ruhuna, and evidence of its past can be found in nearby archaeological sites, including temples and ruins. The town was also a part of Sri Lanka’s coastal trade routes, with a long history of connections to India and the Middle East. Today, Hikkaduwa continues to be a popular destination, balancing modern tourism with its rich cultural heritage.",
+      "food_gmaps_url": "25FkQBmhdP2u4NFy8",
+      "accommodation": [
+        {
+          "name": "placeholder",
+          "maps_url": "gmaps_url_to_accom",
+          "reservation_url": "reservation_url"
+        }
+      ],
+      "activities": {
+        "Water Sports": {
+          "Diving": {
+            "img": "https://lh3.googleusercontent.com/p/AF1QipOZA0x68vDmTr1slE5xJzFa8ZaDMWYGlukbTnmZ=s1360-w1360-h1020",
+            "info_url": "https://divingsrilanka.com/",
+            "booking_url": "booking_confirmation_url",
+            "description": "Top diving school with good equipment",
+            "gmaps_url": "https://g.co/kgs/VSYBwgm"
+          },
+          "Surfing": {
+            "img": "https://lh3.googleusercontent.com/p/AF1QipNfPN5jOmRk5mUBpPIAvJj7AdzT_gajRAEYOIEz=s1360-w1360-h1020",
+            "info_url": "https://www.instagram.com/susa.surf/?igshid=YWJhMjlhZTc%3D",
+            "description": "We have to book via their instagram",
+            "gmaps_url": "https://g.co/kgs/K7ArDGy"
+          },
+          "Turtle snorkeling": {
+            "img": "https://www.holidify.com/images/cmsuploads/compressed/Green_turtle_swimming_over_coral_reefs_in_Kona_20200107163139.jpg",
+            "description": "A must-visit spot near Hikkaduwa Beach where you can see and snorkel with sea turtles in their natural habitat.",
+            "gmaps_url": "https://maps.app.goo.gl/Nv4KLi6ouP9wKwU2A"
+          },
+          "Beaches": {
+            "description": "<p><strong>Hikkaduwa Beach:</strong> The main beach in town, perfect for surfing, snorkeling, and relaxing. It's vibrant and lined with restaurants, bars, and shops, making it a lively hub for tourists and locals alike.</p><br/><br/><p><strong>Narigama Beach:</strong> A quieter stretch with soft sand and strong waves, ideal for surfing enthusiasts and long, peaceful beach walks. It offers a more laid-back atmosphere compared to the main beach.</p><br/><br/><p><strong>Seenigama Beach:</strong> A peaceful beach located slightly north of Hikkaduwa. It’s less crowded and is home to the Seenigama Devol Temple, a fascinating shrine situated on a small island just offshore.</p><br/><br/><p><strong>Dodanduwa Beach:</strong> Located south of Hikkaduwa, this tranquil beach is great for those seeking a more relaxed vibe. It’s also a popular spot for local fishing and a quieter alternative to the busier beaches.</p>"
+
+          }
+        }
+      }
+    },
+    "Weligama": {
+      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f4/70/b7/surfdiscovery-sri-lanka.jpg?w=1000&h=1000&s=1",
+      "from": "2024-03-11",
+      "to": "2024-03-14",
+      "labels": [
+        "surfing",
+        "culture",
+        "beach",
+        "fishing trip"
+      ],
+      "description": "Weligama is a serene coastal town in Sri Lanka, ideal for beginner surfers with its gentle waves and numerous surf schools. We can unwind on the crescent-shaped beach, visit the historic Kushtarajagala Buddha statue, or enjoy the lagoons by paddleboard. Additionally, Taprobane Island, just off the coast, is a notable landmark that we should consider exploring.",
+      "history": "",
+      "food_gmaps_url": "",
+      "accommodation": [
+        {
+          "name": "Solid Surf House",
+          "maps_url": "https://maps.app.goo.gl/JLd2wFnFiruv5yrD6",
+          "reservation_url": "reservation_url"
+        }
+      ],
+      "activities": {
+        "Culture": {
+          "Kushtarajagala Statue": {
+            "img": "https://img.atlasobscura.com/yJCAT0oy3dg3_VndwWEC0RhNC4eUgiDCupHWRqsKJtI/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZGU2/MWMzYy02NzZjLTQ3/ZWQtOGY1Yy1mMWMx/MTM5Mzc0ZDg4NTk2/ZGU4YzllNDVlODQ5/MmNfQXZhbG9raXRl/c2h2YXJhLF9XZWxp/Z2FtYV8wNjk5Lmpw/ZWc.jpg",
+            "description": "An ancient rock-carved 10ft Buddha statue just a short walk from Weligama town. It’s a unique cultural site with historical significance.",
+            "gmaps_url": "https://maps.app.goo.gl/FtN2a25p7p2J2VXc8"
+          }
+        },
+        "Water Sports": {
+          "Surfing": {
+            "img": "https://lh3.googleusercontent.com/p/AF1QipOZA0x68vDmTr1slE5xJzFa8ZaDMWYGlukbTnmZ=s1360-w1360-h1020",
+            "info_url": "https://divingsrilanka.com/",
+            "booking_url": "booking_confirmation_url",
+            "description": "As part of a beautiful surf hostel, getting to the beach with surf boards attached to the roof",
+            "gmaps_url": "https://maps.app.goo.gl/JLd2wFnFiruv5yrD6"
+          }
+        }
+      }
+    },
+    "Mirrissa": {
+      "img": "",
+      "from": "2024-03-09",
+      "to": "2024-03-12",
+      "labels": [
+        "surfing",
+        "snorkeling",
+        "scuba",
+        "beach",
+        "whale watching"
+      ],
+      "description": "",
+      "history": "",
+      "food_gmaps_url": "",
+      "accommodation": [
+        {
+          "name": "placeholder",
+          "maps_url": "gmaps_url_to_accom",
+          "reservation_url": "reservation_url"
+        }
+      ],
+      "activities": {
+        "Water Sports": {
+          "Diving": {
+            "img": "",
+            "info_url": "",
+            "booking_url": "booking_confirmation_url",
+            "description": "t",
+            "gmaps_url": ""
+          }
+        }
+      }
+    },
+    "Unawatuna": {
+      "img": "",
+      "from": "2024-03-09",
+      "to": "2024-03-12",
+      "labels": [
+        "safari",
+        "scuba (shipwreck)",
+        "beach"
+      ],
+      "description": "",
+      "history": "",
+      "food_gmaps_url": "",
+      "accommodation": [
+        {
+          "name": "placeholder",
+          "maps_url": "gmaps_url_to_accom",
+          "reservation_url": "reservation_url"
+        }
+      ],
+      "activities": {
+        "Water Sports": {
+          "Diving": {
+            "img": "",
+            "info_url": "",
+            "booking_url": "booking_confirmation_url",
+            "description": "Shipwreck!!",
+            "gmaps_url": ""
+          }
+        },
+        "Culture": {
+          "Safari": {
+            "img": "",
+            "info_url": "",
+            "booking_url": "booking_confirmation_url",
+            "description": "Safari!!!!",
+            "gmaps_url": ""
+          }
+        }
+      }
+    }
+  }
+}

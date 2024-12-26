@@ -1,0 +1,19 @@
+.accordion-button:not(.collapsed) {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.accordion-button {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.activity-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.activity-links a {
+  color: grey;
+}
