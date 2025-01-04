@@ -8,7 +8,14 @@ const LabelList: React.FC<LabelsProps> = ({ labels }) => {
     if (!labels || labels.length === 0) return null;
 
     return (
-        <div className="labels-container" style={{ marginBottom: '10px' }}>
+        <div
+            className="labels-container"
+            style={{
+                marginBottom: '10px',
+                display: 'flex',
+                flexWrap: 'wrap',
+            }}
+        >
             {labels.map((label, index) => (
                 <span
                     key={index}
@@ -17,12 +24,13 @@ const LabelList: React.FC<LabelsProps> = ({ labels }) => {
                         color: '#fff',
                         padding: '5px 10px',
                         marginRight: '5px',
+                        marginBottom: '5px',
                         borderRadius: '5px',
                         fontSize: '0.9em',
                     }}
                 >
-                    {label}
-                </span>
+                {label}
+            </span>
             ))}
         </div>
     );
