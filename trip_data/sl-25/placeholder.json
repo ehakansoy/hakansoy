@@ -1,32 +1,29 @@
 {
   "": {
     "img": "",
-    "from": "2024-03-09",
-    "to": "2024-03-12",
+    "from": "2024-03-",
+    "to": "2024-03-",
     "labels": [
-      "surfing",
-      "snorkeling",
-      "scuba",
-      "beach"
+      ""
     ],
     "description": "",
     "history": "",
     "food_gmaps_url": "",
     "accommodation": [
       {
-        "name": "placeholder",
-        "maps_url": "gmaps_url_to_accom",
-        "reservation_url": "reservation_url"
+        "name": "",
+        "maps_url": "",
+        "reservation_url": ""
       }
     ],
     "activities": {
-      "Water Sports": {
-        "Diving": {
-          "img": "https://lh3.googleusercontent.com/p/AF1QipOZA0x68vDmTr1slE5xJzFa8ZaDMWYGlukbTnmZ=s1360-w1360-h1020",
-          "info_url": "https://divingsrilanka.com/",
-          "booking_url": "booking_confirmation_url",
-          "description": "Top diving school with good equipment",
-          "gmaps_url": "https://g.co/kgs/VSYBwgm"
+      "": {
+        "": {
+          "img": "",
+          "info_url": "",
+          "booking_url": "",
+          "description": "",
+          "gmaps_url": ""
         }
       }
     }
