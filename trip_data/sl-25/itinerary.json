@@ -2,7 +2,7 @@
   "destination": "Sri Lanka",
   "from": "2024-03-08",
   "to": "2024-03-21",
-  "overview": "Sri Lanka is a tropical paradise known for its rich history, vibrant culture, stunning landscapes, and diverse wildlife. Over the course of two weeks, we'll experience the best of what this island nation has to offer.<br/><br/>From exploring ancient temples and indulging in flavorful local cuisine, to scuba diving in crystal-clear waters, hiking through lush jungles, and catching waves on some of the world’s top surfing spots, Sri Lanka provides the perfect balance of adventure, relaxation, and cultural immersion. Whether we're history buffs, nature lovers, or thrill-seekers, there's something for everyone in this beautiful country.",
+  "overview": "Sri Lanka is a tropical paradise known for its rich history, vibrant culture, stunning landscapes, and diverse wildlife. Over the course of two weeks, we'll start off by the coast, enjoy the beach, do surfing, explore diving to see local marine life and old shipwrecks. We'll then move more east to Yala national park to see local wildlife including elephants and leopards. We'll then head towards central SL to explore the mountains. Currently we only have two stops for hiking and both don't have enough hikes for multiple days. We can add on other spots, but other top hiking spots are a few hours drive. The dates of the below timeline isn't fully accurate, but we still do definitely have space to play around with / add another stop / combine stops.",
   "img": "https://static01.nyt.com/images/2019/02/03/travel/03frugal-srilanka01/merlin_148552275_74c0d250-949c-46e0-b8a1-e6d499e992cf-superJumbo.jpg?quality=75&auto=webp",
   "gmaps_id": "1Zeu7kZof77BcQWTC-AkoWxIfD4_7unQ",
   "flights": {
@@ -280,7 +280,23 @@
           }
         }
       }
-    }, "Ella": {
+    }, "Horton Plains": {
+      "img": "",
+      "from": "2024-03-",
+      "to": "2024-03-",
+      "labels": [
+        "hiking"
+      ],
+      "description": "No accom in the national park so will be slightly out. Not a massive amount of hiking and 1 night seems to be enough. Ohiya is the closest town, approx 20-30 mins from the hikes where we will have to stay. Nowhere to get food once in the national park so need to take with us. Highlights are World's End and Baker's Falls. The views are best early in the morning before the mist sets in. Potentially explore Nuwara Eliya (\"Little England\"). Walk around Lake Gregory or visit a tea plantation. Get the train to Ella, one of the most scenic train rides in the world. Book observation class from 12GoAsia.",
+      "history": "<p>Horton Plains, located in the central highlands of Sri Lanka, has a fascinating history rooted in both natural and cultural significance. This misty plateau, sitting at over 2,100 meters above sea level, was originally inhabited by indigenous Vedda people and later became a hunting ground for British colonials in the 19th century. Named after Sir Robert Wilmot-Horton, a British governor of Ceylon, the plains were declared a nature reserve in 1969 and upgraded to a national park in 1988. Known for its unique montane grasslands and cloud forests, it is also home to archaeological evidence of prehistoric human settlements and is considered a critical biodiversity hotspot. Today, Horton Plains is famous for attractions like World's End, Baker's Falls, and its diverse wildlife, including the endangered Sri Lankan leopard and sambar deer.</p>\n",
+      "accommodation": [
+        {
+          "name": "placeholder",
+          "maps_url": "",
+          "reservation_url": ""
+        }
+      ]
+    },"Ella": {
       "img": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0d/bc/05/aa/ella.jpg",
       "from": "2024-03-14",
       "to": "2024-03-16",
