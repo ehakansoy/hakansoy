@@ -2,7 +2,7 @@
   "destination": "Sri Lanka",
   "from": "2024-03-08",
   "to": "2024-03-21",
-  "overview": "Sri Lanka is a tropical paradise known for its rich history, vibrant culture, stunning landscapes, and diverse wildlife.<br/><br/>Over the course of two weeks, we'll start off by the coast, enjoy the beach, catch some waves surfing, see marine life and old shipwrecks diving. We'll then move more east to Yala national park to see local wildlife including elephants and leopards. We'll then head towards central SL to explore the mountains. Currently we only have two stops for hiking and both don't have enough hikes for multiple days (but the town we'd stay at for Horton Heights does have some nearby drivable hikes such as a 5 hour hike to Adisham monestary. We can add on other spots, but other top hiking spots are a few hours drive.<br/><br/>The dates of the below timeline aren't fully accurate, but we still do definitely have space to play around with / add another stop / combine stops. The yellow waypoints on the map represent other significant potential stops we can add such as Sigiriya Lion Rock but will mean more time spent travelling. (if we are subbing anywhere out I think Kandy would be the one to get rid of as it is a bit of a trek away and not much going on)",
+  "overview": "Sri Lanka is a tropical paradise known for its rich history, vibrant culture, stunning landscapes, and diverse wildlife. Over the course of two weeks, we'll experience the best of what this island nation has to offer.<br/><br/>From exploring ancient temples and indulging in flavorful local cuisine, to scuba diving in crystal-clear waters, hiking through lush jungles, and catching waves on some of the world’s top surfing spots, Sri Lanka provides the perfect balance of adventure, relaxation, and cultural immersion. Whether we're history buffs, nature lovers, or thrill-seekers, there's something for everyone in this beautiful country.",
   "img": "https://static01.nyt.com/images/2019/02/03/travel/03frugal-srilanka01/merlin_148552275_74c0d250-949c-46e0-b8a1-e6d499e992cf-superJumbo.jpg?quality=75&auto=webp",
   "gmaps_id": "1Zeu7kZof77BcQWTC-AkoWxIfD4_7unQ",
   "flights": {
@@ -47,12 +47,22 @@
     "Colombo": {
       "img": "https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
       "from": "2024-03-08",
-      "to": "2024-03-08",
+      "to": "2024-03-09",
       "labels": [
         "culture"
       ],
-      "description": "The capital of Sri Lanka. Other travellers/backpackers advise against spending more than half a day here. The most to do is take a tuk-tuk tour of the city and swing by Pettah market.",
+      "description": "Colombo is a bustling city that blends rich history with modern development, making it an exciting destination for our trip.<br/>We'll explore vibrant markets like Pettah, visit the serene Gangaramaya Temple, and take a tuk-tuk city tour to see local landmarks. We’ll also relax at Galle Face Green and immerse ourselves in the city’s culture.<br/>The Colombo National Museum offers a fascinating glimpse into Sri Lanka’s heritage, while the Colombo Harbour showcases the city’s economic significance.",
       "history": "<h6>Ancient and Colonial History</h6><ul><li><strong>Ancient Era:</strong> Colombo has been a port city for over 2,000 years. The city's strategic location along the Indian Ocean made it a vital trading hub. It was mentioned in ancient texts such as the Mahavamsa, a historical chronicle of Sri Lanka.</li><li><strong>Portuguese Period (1505–1658):</strong> The Portuguese were the first European colonizers to arrive in Sri Lanka, establishing their presence in Colombo in 1505. They built fortifications, which later became part of the city’s defenses. The Portuguese controlled much of the coastal areas until they were ousted by the Dutch.</li><li><strong>Dutch Period (1658–1796):</strong> The Dutch East India Company took control of Colombo in 1658. They expanded the fortifications and introduced new infrastructure, like canals, and began managing trade. The Dutch influence is still seen in Colombo’s architecture and street names.</li><li><strong>British Period (1796–1948):</strong> The British took control of Colombo in 1796 and eventually established it as the capital of British Ceylon. During British rule, Colombo underwent significant urbanization, including the development of public buildings, roads, and railways. The city became a key center for the British Empire’s maritime trade.</li></ul><h6>Post-Independence and Modern Day</h6><ul><li><strong>Independence:</strong> Sri Lanka gained independence from Britain in 1948, and Colombo remained the capital of the newly independent nation. It was a focal point for political and economic changes.</li><li><strong>Civil War (1983–2009):</strong> The Sri Lankan Civil War between the government and the Tamil Tigers (LTTE) had a profound impact on Colombo. The city, while largely unaffected by the fighting, experienced bombings and attacks during the conflict. In 2009, the civil war officially ended, and Colombo began recovering and rebuilding.</li><li><strong>Modern Growth:</strong> Today, Colombo is a bustling metropolis with a mix of colonial and modern architecture.</li></ul>",
+      "accommodation": [
+        {
+          "name": "Lorem Ipsum",
+          "maps_url": "gmaps_url_to_accom",
+          "reservation_url": "reservation_url",
+          "check_in": "1970-01-01 15:00",
+          "check_out": "1970-01-01 12:00"
+        }
+      ],
+      "documents_url": "https://drive.google.com/drive/folders/12aiJO-ZanSL1hbnemCRUkEfHwcdQYSCq?usp=drive_link",
       "activities": {
         "Culture": {
           "City Tour by Tuk Tuk": {
@@ -60,6 +70,7 @@
             "info_url": "https://www.viator.com/en-GB/tours/Colombo/Colombo-City-Tour-By-Tuk-Tuk/d4619-104893P11?m=64813&supag=&supca=20929556840&supsc=&supai=&supdv=c&supnt=x&suplp=9045881&supli=&supti=&tsem=true&supci=&supap1=&supap2=&gad_source=1&gclid=CjwKCAiAmfq6BhAsEiwAX1jsZ2ICPZmmTsWawdJ6Umq8az-x41zp6sMpQaOdE9-ET7mhK5y4c-vjjxoC8WUQAvD_BwE",
             "booking_url": "booking_confirmation_url",
             "description": "Ditch the crowded coach tours and travel like a local on this intimate, half-day sightseeing trip through Colombo in a traditional three-wheeler tuk tuk. Tick off the capital’s top attractions as you weave your way down winding streets, from bustling Hindu temples to Dutch-built landmarks. You’ll also enjoy a shopping stop in the market-filled district of Pettah. Pick up is from the hotel."
+
           },
           "Colombo National Museum": {
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/SL_Colombo_asv2020-01_img10_National_Museum.jpg/2880px-SL_Colombo_asv2020-01_img10_National_Museum.jpg",
@@ -98,7 +109,7 @@
         "scuba",
         "beach"
       ],
-      "description": "The best spot to surf in March & great place to dive. Beginner friendly waves and no sea urchins for surfing, and interesting dive sites such as the 1903 oil tanker. We can also rent a tuk tuk while staying here to get around.",
+      "description": "For our stop in Hikkaduwa, we’ll be enjoying the perfect mix of adventure and relaxation. We’ll catch some great waves while surfing and explore the vibrant underwater world with a scuba diving trip. Between the surf sessions, we can unwind on the beautiful sandy beaches, snorkel and soak up the sun.",
       "history": "Hikkaduwa has a rich history that dates back centuries. Once a small fishing village, it became more widely known in the 1960s when it started to attract travelers and surfers from around the world, drawn by its stunning beaches and great surf spots. Over time, it developed into a popular tourist destination, known not only for its vibrant coral reefs but also for its laid-back atmosphere and natural beauty.<br/>Historically, Hikkaduwa was part of the ancient kingdom of Ruhuna, and evidence of its past can be found in nearby archaeological sites, including temples and ruins. The town was also a part of Sri Lanka’s coastal trade routes, with a long history of connections to India and the Middle East. Today, Hikkaduwa continues to be a popular destination, balancing modern tourism with its rich cultural heritage.",
       "food_gmaps_url": "25FkQBmhdP2u4NFy8",
       "accommodation": [
@@ -113,7 +124,8 @@
           "Diving": {
             "img": "https://lh3.googleusercontent.com/p/AF1QipOZA0x68vDmTr1slE5xJzFa8ZaDMWYGlukbTnmZ=s1360-w1360-h1020",
             "info_url": "https://divingsrilanka.com/",
-            "description": "Top diving school with reviews saying good equipment",
+            "booking_url": "booking_confirmation_url",
+            "description": "Top diving school with good equipment",
             "gmaps_url": "https://g.co/kgs/VSYBwgm"
           },
           "Surfing": {
@@ -124,78 +136,28 @@
           },
           "Turtle snorkeling": {
             "img": "https://www.holidify.com/images/cmsuploads/compressed/Green_turtle_swimming_over_coral_reefs_in_Kona_20200107163139.jpg",
-            "description": "A spot near Hikkaduwa Beach where you can see and snorkel with sea turtles.",
+            "description": "A must-visit spot near Hikkaduwa Beach where you can see and snorkel with sea turtles in their natural habitat.",
             "gmaps_url": "https://maps.app.goo.gl/Nv4KLi6ouP9wKwU2A"
           },
           "Beaches": {
             "description": "<p><strong>Hikkaduwa Beach:</strong> The main beach in town, perfect for surfing, snorkeling, and relaxing. It's vibrant and lined with restaurants, bars, and shops, making it a lively hub for tourists and locals alike.</p><br/><br/><p><strong>Narigama Beach:</strong> A quieter stretch with soft sand and strong waves, ideal for surfing enthusiasts and long, peaceful beach walks. It offers a more laid-back atmosphere compared to the main beach.</p><br/><br/><p><strong>Seenigama Beach:</strong> A peaceful beach located slightly north of Hikkaduwa. It’s less crowded and is home to the Seenigama Devol Temple, a fascinating shrine situated on a small island just offshore.</p><br/><br/><p><strong>Dodanduwa Beach:</strong> Located south of Hikkaduwa, this tranquil beach is great for those seeking a more relaxed vibe. It’s also a popular spot for local fishing and a quieter alternative to the busier beaches.</p>"
-          }
-        }
-      }
-    }, "Galle": {
-      "img": "https://content.r9cdn.net/rimg/dimg/a7/5e/9c5db968-city-43529-1665972f0ba.jpg?width=1366&height=768&xhint=1979&yhint=2141&crop=true",
-      "from": "2024-03-11",
-      "to": "2024-03-11",
-      "labels": [
-        "culture"
-      ],
-      "description": "A quick stop on our way to Unawatuna. Galle  is a coastal city known for its UNESCO-listed Galle Fort, a historic Dutch-built fortress with colonial architecture, quaint streets, and boutique shops. Highlights include the lighthouse,  ocean views, and vibrant cafes.",
-      "history": "<p>Galle, located on the southwestern coast of Sri Lanka, has a rich history dating back centuries. It was a prominent port city in the ancient world, known to traders from Greece, Rome, Arabia, and China. Its strategic location made it an essential hub for the spice trade.</p><br/><p>The name \"Galle\" is believed to derive from the Sinhalese word \"Gala,\" meaning rock, or \"Gaala,\" referring to cattle herding. Early historical records suggest that Galle was an important seaport as far back as the 6th century BCE, and it was mentioned in Ptolemy's world map during the 2nd century CE.</p><br/><p>In 1505, the Portuguese arrived in Galle, marking the beginning of European influence in the region. They built the first fortifications to protect their trade interests. However, in 1640, the Dutch captured Galle from the Portuguese, significantly expanding and strengthening the fort, which remains the city's most iconic structure today.</p><br/><p>The Dutch Fort, a UNESCO World Heritage Site, reflects the architectural and cultural heritage of the Dutch colonial era. It served as a major administrative and military base during Dutch rule and later under British control when they took over Sri Lanka in 1796.</p><br/><p>Throughout its history, Galle has been a melting pot of cultures, influenced by Arab, Portuguese, Dutch, and British traders and settlers. Today, it stands as a testament to this rich blend of history, architecture, and tradition.</p>\n",
-      "food_gmaps_url": "not_yet_added_sorry:(",
-      "activities": {
-        "Culture": {
-          "Galle Fort": {
-            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvocal.media%2Fjournal%2Fdiscovering-galle-fort-a-historic-journey-through-time&psig=AOvVaw349tlHTbfpyOurMcyl2dEz&ust=1736712429289000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjPjY287ooDFQAAAAAdAAAAABAE",
-            "info_url": "https://maps.app.goo.gl/YBvvAjJ5kg7vvfkH9",
-            "description": "Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards.",
-            "gmaps_url": "https://g.co/kgs/VSYBwgm"
-          }
-        }
-      }
-    }, "Unawatuna": {
-      "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/17/f0/2d/20190407-165442-largejpg.jpg?w=1100&h=-1&s=1",
-      "from": "2024-03-11",
-      "to": "2024-03-12",
-      "labels": [
-        "scuba",
-        "surfing",
-        "culture"
-      ],
-      "description": "Known for its dive sites such as Galle Shipwreck, Rangoon Wreck, and Napoleon Reef. Surfing is also possible",
-      "history": "<p>Unawatuna, located just a few kilometers south of Galle in Sri Lanka, is a picturesque coastal village renowned for its golden beaches and turquoise waters. It has a rich history intertwined with both local traditions and colonial influences.</p><br/><p>According to legend, Unawatuna derives its name from the Sanskrit words \"Una-Watuna,\" meaning \"fell down,\" referencing a story in the Ramayana where a piece of the Himalayas fell here as Hanuman transported it. This gives the area a mythical and cultural significance.</p><br/><p>During the colonial period, Unawatuna was influenced by the Portuguese, Dutch, and British due to its proximity to Galle, but it remained primarily a fishing village. Over time, it became known for its serene beauty and warm hospitality.</p><br/><p>Today, Unawatuna is a popular tourist destination offering activities like snorkeling, diving, and turtle watching. The village is also home to significant landmarks, such as the Japanese Peace Pagoda and the Rumassala Hill, which boasts breathtaking views and endemic flora and fauna.</p><br/><p>With its unique blend of natural beauty, history, and mythology, Unawatuna continues to be a vibrant and tranquil escape for visitors from around the world.</p>\n",
-      "food_gmaps_url": "https://maps.app.goo.gl/HbFrtiq9svjYum9X6",
-      "accommodation": [
-        {
-          "name": "placeholder",
-          "maps_url": "",
-          "reservation_url": ""
-        }
-      ],
-      "activities": {
-        "Water Sports": {
-          "Pearl Divers": {
-            "info_url": "https://www.unawatunadive.com/index.php",
-            "description": "High rated dive school with info about the dive sites on their website",
-            "gmaps_url": "https://maps.app.goo.gl/M6SzUKmY3Ms6HJ9h6"
-          }
-        },
-        "Culture": {
-          "Japanese Peace Pagoda": {
-            "description": "Japanese Peace Pagoda Rumassala is a serene attraction located in Galle, Sri Lanka. Situated on top of Rumassala Hill (which is nice to walk), this pagoda offers breathtaking views of the surrounding ocean and lush greenery. It is a place of tranquility and spirituality, attracting both locals and tourists seeking peace and solace.",
-            "gmaps_url": "https://maps.app.goo.gl/RsLhfkd7UTp8dRaj8"
+
           }
         }
       }
     },
     "Weligama": {
       "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f4/70/b7/surfdiscovery-sri-lanka.jpg?w=1000&h=1000&s=1",
-      "from": "2024-03-12",
-      "to": "2024-03-12",
+      "from": "2024-03-11",
+      "to": "2024-03-14",
       "labels": [
-        "surfing"
+        "surfing",
+        "culture",
+        "beach",
+        "fishing trip"
       ],
-      "description": "Another good spot for surfing, but play this one by ear. If we get good surfing in Hikkaduwa, we can skip this one and spend more time in mirrissa whale watching / surfing there. There is a really nice surf camp / hostel here though.",
-      "history": "<p>Weligama, a coastal town in southern Sri Lanka, has a history shaped by its strategic location along the Indian Ocean. The name \"Weligama\" comes from the Sinhalese words \"wela\" (sand) and \"gama\" (village), referring to its sandy shoreline. The area has been inhabited for centuries and was known to local fishermen for its fertile waters and natural harbor.</p><br/><p>During the colonial period, Weligama was influenced by the Portuguese, Dutch, and British, who used the town as a base for trading and fishing. The Dutch and Portuguese also established coastal fortifications and contributed to the local architecture. However, the town was largely a fishing community, with minimal urbanization compared to nearby Galle.</p><br/><p>The region has also been historically significant for its traditional stilt fishing, a unique fishing method that continues to be practiced by local fishermen today. This tradition has roots in ancient fishing techniques passed down through generations.</p><br/><p>In modern times, Weligama has become known as a popular tourist destination, especially for surfers, due to its calm and shallow waters. Over the past few decades, the town has grown in popularity and infrastructure, attracting visitors from around the world while still maintaining much of its original charm as a coastal village.</p><br/><p>Today, Weligama continues to blend its rich cultural heritage with tourism, offering a unique glimpse into Sri Lanka's coastal life and traditions.</p>",
+      "description": "Weligama is a serene coastal town in Sri Lanka, ideal for beginner surfers with its gentle waves and numerous surf schools. We can unwind on the crescent-shaped beach, visit the historic Kushtarajagala Buddha statue, or enjoy the lagoons by paddleboard. Additionally, Taprobane Island, just off the coast, is a notable landmark that we should consider exploring.",
+      "history": "",
       "food_gmaps_url": "",
       "accommodation": [
         {
@@ -217,22 +179,24 @@
             "img": "https://lh3.googleusercontent.com/p/AF1QipOZA0x68vDmTr1slE5xJzFa8ZaDMWYGlukbTnmZ=s1360-w1360-h1020",
             "info_url": "https://divingsrilanka.com/",
             "booking_url": "booking_confirmation_url",
-            "description": "As part of a beautiful surf hostel, getting to the beach with surf boards attached to the roof of tuk tuks",
+            "description": "As part of a beautiful surf hostel, getting to the beach with surf boards attached to the roof",
             "gmaps_url": "https://maps.app.goo.gl/JLd2wFnFiruv5yrD6"
           }
         }
       }
     },
-    "Mirissa": {
-      "img": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/8d/20/4f.jpg",
-      "from": "2024-03-12",
-      "to": "2024-03-13",
+    "Mirrissa": {
+      "img": "",
+      "from": "2024-03-09",
+      "to": "2024-03-12",
       "labels": [
+        "surfing",
         "snorkeling",
-        "whale watching",
-        "surfing"
+        "scuba",
+        "beach",
+        "whale watching"
       ],
-      "description": "Known for beautiful beaches and whale watching / snorkelling with whales. Mirissa being on the same coast also has good surfing",
+      "description": "",
       "history": "",
       "food_gmaps_url": "",
       "accommodation": [
@@ -244,110 +208,52 @@
       ],
       "activities": {
         "Water Sports": {
-          "Whale Snorkelling": {
-            "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/80/c8/2d/caption.jpg?w=1200&h=-1&s=1",
-            "info_url": "https://mirissabluewhalestours.com/",
+          "Diving": {
+            "img": "",
+            "info_url": "",
             "booking_url": "booking_confirmation_url",
             "description": "t",
             "gmaps_url": ""
           }
         }
       }
-    }, "Yala National Park": {
-      "img": "https://media.tacdn.com/media/attractions-splice-spp-674x446/09/55/dd/5f.jpg",
-      "from": "2024-03-13",
-      "to": "2024-03-14",
+    },
+    "Unawatuna": {
+      "img": "",
+      "from": "2024-03-09",
+      "to": "2024-03-12",
       "labels": [
-        "national park"
+        "safari",
+        "scuba (shipwreck)",
+        "beach"
       ],
-      "description": "Yala National Park is a huge area of forest, grassland and lagoons bordering the Indian Ocean, in southeast Sri Lanka. It’s home to wildlife such as leopards, elephants and crocodiles, as well as hundreds of bird species. Inland, Sithulpawwa is an ancient Buddhist monastery. Nearby caves contain centuries-old rock paintings. Southwest, Magul Maha Viharaya also has ancient Buddhist ruins. Both are pilgrimage sites. ",
-      "history": "<p>Yala National Park, located in southeastern Sri Lanka, is one of the country's oldest and most famous wildlife sanctuaries, established in 1900 as a game reserve and designated a national park in 1938. Covering over 978 square kilometers, it was historically used by ancient Sri Lankan kings for hunting and as a place of spiritual significance, evidenced by archaeological sites like Sithulpawwa and Magul Maha Viharaya, which date back over 2,000 years. During colonial times, the British maintained the area as a game reserve, but its biodiversity was later recognized, leading to its protection as a national park. Yala is renowned for its diverse ecosystems, including forests, grasslands, and lagoons, and is home to iconic wildlife such as leopards, elephants, and a wide variety of bird species, making it a key destination for nature enthusiasts and conservation efforts.</p>\n",
-      "accommodation": [
-        {
-          "name": "Govt owned",
-          "maps_url": "",
-          "reservation_url": ""
-        }
-      ],
-      "activities": {
-        "National park": {
-          "Safari": {
-            "img": "https://www.civitatis.com/f/sri-lanka/ella/safari-parque-yala-589x392.jpg",
-            "info_url": "https://www.yalasrilanka.lk/",
-            "booking_url": "",
-            "description": "Leopards, Elephants & colourful birds. The best national park in Sri Lanka, and only to see leopards. We need to book in advance for this as not much accom available.",
-            "gmaps_url": "https://maps.app.goo.gl/vx6SwFaEvDxvXP6KA"
-          }
-        }
-      }
-    }, "Horton Plains": {
-      "img": "https://www.orienthotelsl.com/wp-content/uploads/2023/02/Horton-Plains-Nature-Reserve-800x600-1.webp",
-      "from": "2024-03-14",
-      "to": "2024-03-16",
-      "labels": [
-        "hiking"
-      ],
-      "description": "No accom in the national park so will be slightly out. Not a massive amount of hiking and 1 night seems to be enough. Ohiya is the closest town, approx 20-30 mins from the hikes where we will have to stay. Nowhere to get food once in the national park so need to take with us. Highlights are World's End and Baker's Falls. The views are best early in the morning before the mist sets in. Potentially explore Nuwara Eliya (\"Little England\"). Walk around Lake Gregory or visit a tea plantation. Get the train to Ella, one of the most scenic train rides in the world. Book observation class from 12GoAsia.",
-      "history": "<p>Horton Plains, located in the central highlands of Sri Lanka, has a fascinating history rooted in both natural and cultural significance. This misty plateau, sitting at over 2,100 meters above sea level, was originally inhabited by indigenous Vedda people and later became a hunting ground for British colonials in the 19th century. Named after Sir Robert Wilmot-Horton, a British governor of Ceylon, the plains were declared a nature reserve in 1969 and upgraded to a national park in 1988. Known for its unique montane grasslands and cloud forests, it is also home to archaeological evidence of prehistoric human settlements and is considered a critical biodiversity hotspot. Today, Horton Plains is famous for attractions like World's End, Baker's Falls, and its diverse wildlife, including the endangered Sri Lankan leopard and sambar deer.</p>\n",
+      "description": "",
+      "history": "",
+      "food_gmaps_url": "",
       "accommodation": [
         {
           "name": "placeholder",
-          "maps_url": "",
-          "reservation_url": ""
-        }
-      ]
-    },"Ella": {
-      "img": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/0d/bc/05/aa/ella.jpg",
-      "from": "2024-03-16",
-      "to": "2024-03-18",
-      "labels": [
-        "hiking"
-      ],
-      "description": "Scenic hill town known for its greenry, views and cool climate. Home to nine arches bridge (the one at the top of the sri lanka home page), ella rock, little adam's peak, diyaluma falls (natural infinity pool off a mountain), and many tea plantations. On the way out of Ella we will take a train to Kandy which is rated as one of the most scenic train journeys in the world. We need to book the tickets ideally in the observation deck which is the back of the train.",
-      "history": "<p>Ella, a small hill town in Sri Lanka, has a history rooted in agriculture and trade, with its fertile lands once used for tea plantations introduced during British colonial rule, and it is surrounded by ancient sites like Ravana Ella Cave, linked to the Ramayana epic, adding mythological significance to its scenic beauty.</p>\n",
-      "accommodation": [
-        {
-          "name": "placeholder",
-          "maps_url": "",
-          "reservation_url": ""
+          "maps_url": "gmaps_url_to_accom",
+          "reservation_url": "reservation_url"
         }
       ],
       "activities": {
-        "Hiking": {
-          "Nine Arches Bridge": {
-            "img": "https://cdn.getyourguide.com/img/location/5cc80c91dad52-wide.jpeg/99.jpg",
-            "info_url": "https://www.alltrails.com/explore/recording/nine-arch-bridge-287e041"
-          },
-          "Ella Rock": {
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKyHsG1fhP-iPAlbP3fyI84-ODB9YPcSSig&s",
-            "info_url": "https://www.alltrails.com/explore/trail/sri-lanka/badulla/ella-to-ella-rock?u=i"
-          },
-          "Little Adam's Peak": {
-            "img": "https://thisgirlabroad.com/wp-content/uploads/2020/08/little-adams-peak-5.jpg",
-            "info_url": "https://www.alltrails.com/trail/sri-lanka/badulla/little-adams-peak"
-          },
-          "Diyaluma Falls": {
-            "img": "https://youmeunderthepalmtree.com/wp-content/uploads/2021/06/1.png",
-            "info_url": "https://www.alltrails.com/trail/sri-lanka/badulla/diyaluma-falls"
+        "Water Sports": {
+          "Diving": {
+            "img": "",
+            "info_url": "",
+            "booking_url": "booking_confirmation_url",
+            "description": "Shipwreck!!",
+            "gmaps_url": ""
           }
-        }
-      }
-    }, "Kandy": {
-      "img": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSVnawKzlH1E_01NUt09148cRTKoSKL2DO8v52DUZqqHP9aAZ34uiSaAF1cdUl-KbmeZcc4w5OdkF5vUoiUGnvMoL_lRMzGYJBnrjNXmA",
-      "from": "2024-03-18",
-      "to": "2024-03-19",
-      "labels": [
-        "hiking",
-        "culture"
-      ],
-      "description": "Not sure if we should stay here or just use it as a few hours stop over to get some food before continuing to back to Colombo. Some okayish hiking spots but mostly forests so nothing special. Kandy lake is a nice walking area and has a temple that sits on it. If we do stay we should see a Kandyan Cultural Dance Performance which is every day at 5pm in the Kandy Lake Club. To get abck to Colombo, we can uber intercity of another similar taxi system, or we can get the train back.",
-      "history": "<p>Kandy, located in central Sri Lanka, has a rich history as the last capital of the Sinhalese Kingdom, resisting colonial rule until it fell to the British in 1815, and it is home to the sacred Temple of the Tooth Relic, a UNESCO World Heritage Site and one of the most important cultural and religious landmarks in the country.</p>\n",
-      "activities": {
+        },
         "Culture": {
-          "Kandyan Cultural Dance Performance": {
-            "img": "https://www.kandyescapes.com/wp-content/uploads/2020/04/kandyan-dance-and-drum-show-mob.jpg",
-            "info_url": "https://www.kandylakeclubdance.com/index.asp",
-            "gmaps_url": "https://maps.app.goo.gl/p48Ggpkv2hr8fFhq6"
+          "Safari": {
+            "img": "",
+            "info_url": "",
+            "booking_url": "booking_confirmation_url",
+            "description": "Safari!!!!",
+            "gmaps_url": ""
           }
         }
       }
