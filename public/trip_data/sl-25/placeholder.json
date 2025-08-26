@@ -1,0 +1,31 @@
+{
+  "": {
+    "img": "",
+    "from": "2024-03-",
+    "to": "2024-03-",
+    "labels": [
+      ""
+    ],
+    "description": "",
+    "history": "",
+    "food_gmaps_url": "",
+    "accommodation": [
+      {
+        "name": "",
+        "maps_url": "",
+        "reservation_url": ""
+      }
+    ],
+    "activities": {
+      "": {
+        "": {
+          "img": "",
+          "info_url": "",
+          "booking_url": "",
+          "description": "",
+          "gmaps_url": ""
+        }
+      }
+    }
+  }
+}
